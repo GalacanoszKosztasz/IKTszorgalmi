@@ -1,1 +1,1 @@
-Print("Jó Napot Tanár Úr! Ez az elsö modositás")
+Print("Jó Napot Tanár Úr! Ez az második modositás")
