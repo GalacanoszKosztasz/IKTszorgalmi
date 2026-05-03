@@ -1,1 +1,1 @@
-print("Ez egy masik fajl")
+print("Ez egy masik fajl modositva.")
